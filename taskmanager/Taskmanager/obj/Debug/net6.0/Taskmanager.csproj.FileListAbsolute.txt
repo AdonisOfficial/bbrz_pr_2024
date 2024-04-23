@@ -1,0 +1,14 @@
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\bin\Debug\net6.0\Taskmanager.exe
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\bin\Debug\net6.0\Taskmanager.deps.json
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\bin\Debug\net6.0\Taskmanager.runtimeconfig.json
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\bin\Debug\net6.0\Taskmanager.dll
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\bin\Debug\net6.0\Taskmanager.pdb
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\obj\Debug\net6.0\Taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfoInputs.cache
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\obj\Debug\net6.0\Taskmanager.AssemblyInfo.cs
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\obj\Debug\net6.0\Taskmanager.csproj.CoreCompileInputs.cache
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\obj\Debug\net6.0\Taskmanager.dll
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\obj\Debug\net6.0\refint\Taskmanager.dll
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\obj\Debug\net6.0\Taskmanager.pdb
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\obj\Debug\net6.0\Taskmanager.genruntimeconfig.cache
+C:\Users\Reha-TN\bbrz_pr_2024\Taskmanager\Taskmanager\obj\Debug\net6.0\ref\Taskmanager.dll
